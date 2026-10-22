@@ -1,16 +1,31 @@
 [
     {
         "id": 1,
-        "online": "50",
+        "online": "0",
         "maxonline": "5000",
         "color": "FF2B3B",
-        "x2": "true",
+        "x2": "false",
         "key": "1424",
-        "name": "BLESS BRASIL | RED",
-        "firstname": "RED",
+        "name": "BLESS BRASIL | 01",
+        "firstname": "01",
         "secondname": "",
-        "url": "red.blackrussia.online",
-        "ip": "54.38.117.76",
-        "port": "1153"
+        "url": "",
+        "ip": "144.217.64.5",
+        "port": "8591"
+    },
+    {
+        "id": 2,
+        "online": "0",
+        "maxonline": "5000",
+        "color": "2B6BFF",
+        "x2": "false",
+        "key": "1424",
+        "name": "BLESS BRASIL | 02",
+        "firstname": "02",
+        "secondname": "",
+        "url": "",
+        "ip": "162.19.133.164",
+        "port": "4293"
     }
 ]
+
